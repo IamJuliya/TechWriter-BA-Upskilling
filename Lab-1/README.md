@@ -10,7 +10,7 @@ The organization has an existing Employee Management System that provides variou
 Project and Resource Managers also need a structured way to communicate upcoming project requirements and identify employees whose skills and interests may align with those requirements.
 The proposed enhancement will introduce a Project Opportunities & Talent Readiness feature within the existing Employee Management System. It will allow authorized users to publish upcoming project requirements, while employees can view opportunities, identify skill gaps, express interest, and update their preparation status.
 
-##3. Mock Stakeholder Interview
+## 3. Mock Stakeholder Interview
 
 Stakeholder: Resource/Staffing Manager
 BA: How are upcoming project requirements currently communicated to employees?
@@ -31,7 +31,6 @@ BA: Who should create and publish project requirements?
 Stakeholder: Authorized Project or Resource Management users.
 BA: What information would Resource Managers need when reviewing interested employees?
 Stakeholder: Relevant skills, experience, availability, and preparation/readiness status.
-
 
 ## 4. BRD Skeleton 
 ## Project Title
