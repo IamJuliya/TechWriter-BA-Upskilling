@@ -5,9 +5,7 @@ The Mini Project focuses on developing a focused enhancement to the existing Emp
 
 ## Features
 
-Upcoming Project
-       ↓
-Employee Views Project
+Upcoming Project  -> Employee Views Project
        ↓
 Compares Skills
        ↓
