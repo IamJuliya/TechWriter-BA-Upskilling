@@ -5,12 +5,4 @@ The Mini Project focuses on developing a focused enhancement to the existing Emp
 
 ## Features
 
-Upcoming Project  -> Employee Views Project
-       ↓
-Compares Skills
-       ↓
-Identifies Skill Gap
-       ↓
-Expresses Interest
-       ↓
-Resource Manager Reviews
+Upcoming Project -> Employee Views Project -> Compares Skills -> Identifies Skill Gap -> Expresses Interest -> Resource Manager Reviews
