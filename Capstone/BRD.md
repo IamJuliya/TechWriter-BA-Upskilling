@@ -4,8 +4,10 @@
 
 **Organization:** ThinkPalm (case-study scenario)  
 **Document Version:** 1.0
+
 **Status:** Draft for Review  
 **Prepared by:** Mary Juliya 
+
 **Role:** Business Analyst  
 **Date:** 13 October 2026
 
@@ -278,5 +280,3 @@ The BRD may be considered ready for approval when:
 | IT / Portal Representative | To be confirmed | Pending |
 
 **Document Status:** Draft for Review.
-
-**Next Step:** Validate the open questions and baseline measures with stakeholders, then finalize the BRD. The approved BRD will serve as the baseline for the Functional Requirements Document (FRD), Process Flow diagrams, UAT Test Plan, and Requirements Traceability Matrix (RTM).
