@@ -4,7 +4,7 @@
 ## Project Opportunities & Talent Readiness Enhancement
 
 **Organization:** ThinkPalm (case-study scenario)  
-**Prepared by:** Your Name  
+**Prepared by:** Mary Juliya   
 **Role:** Business Analyst  
 **Date:** 13 October 2026
 
