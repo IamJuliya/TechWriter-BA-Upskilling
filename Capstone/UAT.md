@@ -4,7 +4,9 @@
 
 **Organization:** ThinkPalm (case-study scenario)  
 **Version:** 1.0  
+
 **Prepared by:** Mary Juliya 
+
 **Status:** Planned for UAT
 
 ## 1. Purpose
