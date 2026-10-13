@@ -3,6 +3,7 @@
 ## Project Opportunities & Talent Readiness Enhancement
 
 **Organization:** ThinkPalm (case-study scenario)  
+
 **Version:** 1.0  
 
 **Prepared by:** Mary Juliya 
