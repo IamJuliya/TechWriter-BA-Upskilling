@@ -5,7 +5,7 @@
 **Organization:** ThinkPalm (case-study scenario)  
 **Version:** 1.0  
 **Status:** Final Case-Study Submission  
-**Prepared by:** Mary Juliya 
+**Prepared by:** Mary Juliya  
 **Role:** Business Analyst  
 **Date:** 13 October 2026
 
