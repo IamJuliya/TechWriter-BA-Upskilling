@@ -5,7 +5,6 @@
 **Prepared By:** Mary Juliya  
 **Role:** Business Analyst  
 **Document Version:** 1.0  
-**Date:** 15 October 2026  
 **Document Status:** Simulated Review and Sign-Off — For Learning Purposes Only
 
 ## 1. Purpose
