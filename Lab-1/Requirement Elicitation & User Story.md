@@ -12,22 +12,22 @@ The proposed enhancement will introduce a Project Opportunities & Talent Readine
 
 ## 3. Mock Stakeholder Interview
 
-Stakeholder: Resource/Staffing Manager
-BA: How are upcoming project requirements currently communicated to employees?
-Stakeholder: They are generally communicated through internal channels and discussions. Employees may not always get early visibility.
-BA: What information should employees see about an upcoming project?
-Stakeholder: Project name, description, expected start date, duration, required skills, and experience requirements.
-BA: How do you currently identify suitable employees?
-Stakeholder: We review employee skills and experience against project requirements and coordinate with managers.
-BA: What if an employee has some but not all required skills?
-Stakeholder: If there is sufficient time, the employee can work on the missing skills before the project starts.
-BA: Should employees be able to express interest in a project?
+Stakeholder: Resource/Staffing Manager 
+BA: How are upcoming project requirements currently communicated to employees? 
+Stakeholder: They are generally communicated through internal channels and discussions. Employees may not always get early visibility. 
+BA: What information should employees see about an upcoming project? 
+Stakeholder: Project name, description, expected start date, duration, required skills, and experience requirements. 
+BA: How do you currently identify suitable employees? 
+Stakeholder: We review employee skills and experience against project requirements and coordinate with managers. 
+BA: What if an employee has some but not all required skills? 
+Stakeholder: If there is sufficient time, the employee can work on the missing skills before the project starts. 
+BA: Should employees be able to express interest in a project? 
 Stakeholder: Yes.
-BA: Should expressing interest automatically assign the employee to the project?
-Stakeholder: No. Final allocation requires management evaluation.
-BA: Should employees be able to update their preparation status?
-Stakeholder: Yes. This would help us understand their readiness.
-BA: Who should create and publish project requirements?
+BA: Should expressing interest automatically assign the employee to the project? 
+Stakeholder: No. Final allocation requires management evaluation. 
+BA: Should employees be able to update their preparation status? 
+Stakeholder: Yes. This would help us understand their readiness. 
+BA: Who should create and publish project requirements? 
 Stakeholder: Authorized Project or Resource Management users.
 BA: What information would Resource Managers need when reviewing interested employees?
 Stakeholder: Relevant skills, experience, availability, and preparation/readiness status.
