@@ -1,1 +1,456 @@
+# Business Requirements Document (BRD)
+## Project Opportunities & Talent Readiness Enhancement
 
+**Organization:** ThinkPalm (Case-Study Scenario)  
+**Version:** 2.1  
+**Status:** Proposed for Stakeholder Review  
+**Prepared by:** Mary Juliya  
+**Role:** Business Analyst  
+**Date:** 12 November 2026
+
+---
+
+## 1. Executive Summary
+
+This project proposes an enhancement to ThinkPalm's existing Employee Management Portal to improve visibility into upcoming project opportunities and the readiness of available internal employees.
+
+Project Managers (PMs) will publish project opportunities and required skills. Eligible employees will be able to review opportunities, compare their recorded skills with project requirements, identify skill gaps, and express or withdraw interest. Resource Managers (RMs) will assess employee suitability, availability and readiness before confirming staffing decisions.
+
+The Learning and Development (L&D) team will support skill-gap closure through tailored learning, assessments and certification. Management will have visibility into talent availability, staffing progress and training outcomes.
+
+The primary business objective is to improve the utilization of existing internal resources and support consideration of suitable internal employees before external recruitment.
+
+The proposal enhances the existing portal rather than replacing it. Staffing decisions will remain under authorized human control. Financial benefits will be measured using agreed baseline data and validated cost information rather than assumed savings.
+
+## 2. Business Problem
+
+Available or unallocated employees may not always have visibility into upcoming project opportunities or the skills required for those projects.
+
+Resource Managers may need to collect and compare employee skills, availability and readiness information from different sources. This can delay the identification of suitable internal resources and increase staffing coordination effort.
+
+Employees may also lack clarity about the skills they need to develop to become suitable for upcoming opportunities. Management may not have consolidated information to evaluate internal resource utilization, staffing outcomes and learning effectiveness.
+
+These challenges may contribute to:
+
+- Underutilization of available internal employees.
+- Delays in identifying suitable resources.
+- Additional manual effort in comparing project requirements and employee skills.
+- Late identification of skill gaps.
+- Potentially avoidable external recruitment.
+- Limited visibility into staffing and talent readiness.
+
+*The above describes the preliminary case-study understanding and is not a verified description of ThinkPalm's current internal procedures.*
+
+## 3. Business Objectives
+
+1. Provide a centralized view of upcoming project opportunities.
+2. Enable Project Managers to publish project requirements and required skills.
+3. Help eligible employees compare their recorded skills with project requirements and identify gaps.
+4. Enable Resource Managers to review and shortlist suitable internal employees.
+5. Support targeted learning and assessment through L&D.
+6. Improve visibility into internal talent availability before considering external recruitment.
+7. Provide management with information about staffing progress, talent readiness and training outcomes.
+8. Protect employee information through appropriate access, privacy and data-handling controls.
+9. Improve the reliability and traceability of opportunity, employee-interest and staffing information.
+
+## 4. Project Scope
+
+### 4.1 In Scope
+
+- Creating, updating, publishing and closing project opportunities.
+- Defining mandatory and preferred skills.
+- Viewing relevant project opportunities.
+- Comparing employee skills with project requirements.
+- Identifying skill gaps based on recorded skill information.
+- Expressing and withdrawing interest by eligible employees.
+- Recording employee availability and readiness information.
+- Reviewing candidates and recording suitability decisions.
+- Managing shortlists and waitlists.
+- Sharing relevant skill-gap information with L&D.
+- Course enrollment, completion, assessments, retries and certification.
+- Authorized skill-profile updates.
+- Confirming staffing outcomes and notifying affected users.
+- Recording when external recruitment may be considered.
+- Management dashboards and reporting.
+- Role-based access and relevant audit records.
+- Business-level validation of submitted information and workflow transitions.
+- Review of existing employee and skill data for reuse, migration or integration.
+- Privacy controls for employee personal and staffing information.
+- Enforcement of approved employee eligibility policies, including notice-period restrictions.
+
+### 4.2 Out of Scope
+
+- Automatic staffing allocation without authorized Resource Manager confirmation.
+- End-to-end recruitment and hiring.
+- Salary, compensation or promotion decisions.
+- Performance appraisal.
+- Automatic training assignment without L&D involvement.
+- Full workforce capacity planning.
+- Guaranteeing financial savings.
+- Replacing existing HR or recruitment systems.
+- Unapproved changes to employee personal or skill information.
+
+## 5. Stakeholders and Responsibilities
+
+| Stakeholder | Responsibility / Interest |
+|---|---|
+| Management | Reviews talent utilization, staffing progress, training outcomes and financial impact; approves relevant business policies. |
+| Project Manager | Defines project requirements, skills, dates and opportunity details. |
+| Resource Manager | Reviews candidates, assesses suitability and readiness, manages shortlists/waitlists and confirms staffing. |
+| Employee | Views eligible opportunities, expresses or withdraws interest, provides availability information and participates in learning activities. |
+| L&D | Supports skill development, course enrollment, assessments, retries and certification. |
+| HR / Recruitment | Provides relevant employee eligibility policies, recruitment policies and cost information for financial measurement. |
+| Portal Administrator / IT | Supports access control, system configuration, data handling and technical implementation. |
+| Finance | Validates financial assumptions, cost definitions and investment estimates. |
+
+### 5.1 RASI Responsibility Assignment Matrix
+
+RASI identifies who is Responsible, Accountable, provides Support, or is Informed for each major business activity.
+
+- **R – Responsible:** Performs the activity.
+- **A – Accountable:** Owns the outcome and decision.
+- **S – Support:** Provides assistance or specialist input.
+- **I – Informed:** Receives relevant updates.
+
+| Business Activity | Management | PM | RM | Employee | L&D | HR / Finance | IT |
+|---|---|---|---|---|---|---|---|
+| Define business and staffing policies | A | I | S | I | S | S | I |
+| Create and maintain project opportunities | I | R/A | S | I | I | I | S |
+| Publish project requirements and skills | I | R/A | S | I | I | I | S |
+| Review opportunities and express interest | I | I | I | R/A | I | I | S |
+| Assess employee suitability and readiness | I | S | R/A | S | S | I | I |
+| Manage shortlist and waitlist | I | S | R/A | I | S | I | I |
+| Provide learning and assessment | I | I | S | R | S/A | I | S |
+| Record certification and authorized skill updates | I | I | S | I | R/A | I | S |
+| Confirm staffing outcome | I | S | R/A | I | I | I | S |
+| Review talent and staffing reports | A | S | S | I | S | S | S |
+| Validate financial impact | A | I | S | I | S | R | I |
+| Manage system access and technical controls | I | I | S | I | S | I | R/A |
+
+The matrix represents the proposed responsibility model for the case study. Final accountability and support assignments are subject to stakeholder confirmation.
+
+## 6. Current-State Understanding
+
+The current-state process is a preliminary case-study assumption, not a verified description of ThinkPalm's internal procedures.
+
+Potential challenges include:
+
+- Project opportunities and employee information may be communicated or maintained through different channels.
+- Resource Managers may need to compare project requirements with employee skills and availability manually.
+- Employees may have limited visibility into upcoming opportunities.
+- Skill gaps and learning needs may require separate coordination.
+- Management may need to consolidate information to understand internal talent availability.
+- Employee and skill information may require validation before it can be reliably reused for staffing decisions.
+
+These assumptions require stakeholder validation during detailed analysis.
+
+## 7. Proposed Future-State Process
+
+1. The Project Manager creates an opportunity and defines its requirements.
+2. The system validates mandatory business information before publication.
+3. Eligible employees view relevant opportunities and compare their recorded skills with the published requirements.
+4. Employees who meet the approved eligibility conditions submit interest and provide availability information.
+5. Resource Managers review skills, experience, availability and readiness.
+6. Suitable and ready employees may be shortlisted. Suitable employees who need additional preparation may be waitlisted where the approved process permits.
+7. Relevant skill gaps are shared with L&D.
+8. L&D supports tailored learning, assessment and certification.
+9. Authorized skill-profile updates support readiness reassessment.
+10. The Resource Manager confirms the staffing outcome.
+11. The system updates relevant statuses and notifies affected users.
+12. Management reviews staffing, resource utilization and training information.
+
+Staffing decisions remain under authorized human control. Expressing interest, being shortlisted or completing training does not automatically result in project allocation.
+
+## 8. Business Requirements
+
+| ID | Business Requirement |
+|---|---|
+| BR-01 | Provide a centralized view of upcoming project opportunities. |
+| BR-02 | Ensure mandatory project, role, date and skill information is available before publication. |
+| BR-03 | Enable eligible employees to view relevant opportunities and compare their recorded skills with requirements. |
+| BR-04 | Enable eligible employees to express and withdraw interest according to the approved process. |
+| BR-05 | Enable Resource Managers to review skills, experience, availability and readiness. |
+| BR-06 | Enable Resource Managers to record suitability decisions and manage shortlists and waitlists. |
+| BR-07 | Support skill-gap closure through L&D-led learning and assessment. |
+| BR-08 | Allow authorized L&D users to record course completion, assessment results, retries and certifications. |
+| BR-09 | Ensure skill-profile updates following certification are performed by authorized users. |
+| BR-10 | Require authorized Resource Manager confirmation for staffing outcomes. |
+| BR-11 | Notify affected users about relevant changes and process outcomes. |
+| BR-12 | Provide management visibility into talent availability, staffing and training. |
+| BR-13 | Support internal resource review before external recruitment is considered, according to approved policy. |
+| BR-14 | Control access to employee, project, assessment and staffing information by role. |
+| BR-15 | Maintain traceability of relevant opportunity, review, learning and staffing changes. |
+| BR-16 | Protect employee personal information and restrict its collection, use and visibility to authorized business purposes. |
+| BR-17 | Support validation of employee, project, skill and workflow information to maintain data accuracy and consistency. |
+| BR-18 | Support an agreed approach for assessing, cleansing, migrating or integrating existing employee and skill data. |
+| BR-19 | Provide appropriate performance, availability, scalability and usability to support the expected business user base. |
+| BR-20 | Provide auditability of important data changes, access-related activities and staffing decisions. |
+| BR-21 | Ensure that project-opportunity participation follows approved employee eligibility policies, including restrictions on employees serving a notice period. |
+
+## 9. Business Rules
+
+Business rules define organizational policies, eligibility conditions and decision constraints that govern the business process. They are not descriptions of system screens, buttons, notifications or other application features.
+
+The following rules represent the proposed business policy for the case study.
+
+| ID | Business Rule |
+|---|---|
+| BRL-01 | **Notice-period restriction:** An employee who is serving a notice period is not eligible to express interest in any internal project opportunity. |
+| BRL-02 | **Employee eligibility:** Only employees who meet the organization's approved eligibility conditions may participate in the internal project opportunity process. |
+| BRL-03 | **Resource availability:** Employees must meet the approved availability requirements for the proposed project start date to be considered for staffing. |
+| BRL-04 | **Internal resource consideration:** Suitable internal employees must be considered before external recruitment is initiated, in accordance with management-approved recruitment policy. |
+| BRL-05 | **Staffing authority:** Final employee selection and staffing decisions must be made by an authorized Resource Manager or approved delegate. |
+| BRL-06 | **Readiness and suitability:** An employee's suitability must be assessed against the project's mandatory requirements, relevant experience, verified skills and availability. |
+| BRL-07 | **Waitlist consideration:** A suitable employee who does not currently meet the required readiness or availability conditions may be considered for a waitlist, subject to Resource Manager approval and project timelines. |
+| BRL-08 | **Mandatory and preferred skills:** Mandatory skills represent essential project requirements, while preferred skills represent additional capabilities that may strengthen an employee's suitability. |
+| BRL-09 | **Skill verification:** Skill proficiency and certification claims used for staffing decisions must be supported by approved evidence or authorized validation. |
+| BRL-10 | **Assessment and certification:** Assessment attempts, pass criteria and certification eligibility must follow L&D-approved policies. |
+| BRL-11 | **Training and staffing:** Completing a course or assessment does not automatically guarantee project selection or staffing. The employee must still meet the project's requirements and receive Resource Manager approval. |
+| BRL-12 | **Changes in employee eligibility:** If an employee's eligibility changes after expressing interest, the employee's continued participation must be assessed according to the approved HR and Resource Management policy. |
+| BRL-13 | **Employee information:** Employee personal information must only be accessed and used for authorized business purposes. |
+| BRL-14 | **Financial measurement:** Recruitment savings and resource-utilization benefits must be calculated using agreed definitions and validated baseline data. |
+
+**Important policy clarification:** BRL-01 establishes the notice-period restriction as a business rule. The detailed handling of an employee who enters a notice period after already expressing interest is subject to confirmation under BRL-12. The policy must be confirmed by HR and Resource Management before implementation.
+
+## 10. Business-Level Validation Requirements
+
+Business rules define what is permitted; validation requirements describe the checks needed to enforce those rules and maintain reliable information.
+
+| Validation Area | Business Requirement |
+|---|---|
+| Opportunity information | Mandatory project details, role, dates and required skills must be available before publication. |
+| Project dates | Project start and end dates must follow approved business date rules. |
+| Skill requirements | Mandatory and preferred skills must be clearly distinguished. |
+| Employee eligibility | Eligibility must be checked against approved employee policies, including notice-period status. |
+| Employee interest | Only eligible employees may submit interest in an active opportunity before its closing date. |
+| Duplicate submissions | Duplicate active interest for the same employee and opportunity must be prevented. |
+| Withdrawal | Withdrawal must follow the approved opportunity status and withdrawal policy. |
+| Employee skill information | Missing or unverified skill information must not automatically be treated as a skill gap. |
+| Readiness assessment | Suitability, readiness and availability must be considered separately. |
+| Staffing confirmation | Only authorized Resource Managers may confirm staffing outcomes. |
+| Learning records | Assessment, retry and certification information must follow approved L&D rules. |
+| Skill-profile updates | Only authorized users may update verified skill or certification information. |
+| Data access | Users must not access information outside their approved role permissions. |
+
+Detailed field-level validations, error handling, exception scenarios and acceptance criteria will be documented in the FRD and functional test cases.
+
+## 11. Employee Data Privacy and Information Protection
+
+The solution will process employee information, including skill profiles, availability, interest records, learning results and staffing outcomes. Appropriate privacy and access controls are therefore required.
+
+### 11.1 Data Privacy Requirements
+
+- Collect only employee information necessary for the defined business purpose.
+- Restrict employee personal information, including mobile numbers and other contact details, to authorized roles.
+- Do not expose personal contact information to other employees merely because they can view the same project opportunity.
+- Define which employee and skill details are visible to Employees, Project Managers, Resource Managers, L&D, Management and IT.
+- Restrict assessment results and learning records to roles with a legitimate business need.
+- Maintain appropriate records of important access and data changes.
+- Follow organizational policies for employee consent, privacy notices, data retention and data correction.
+- Protect employee information during storage, transmission, reporting and integration with other systems.
+
+### 11.2 Proposed Role-Based Visibility
+
+| Information | Employee | PM | RM | L&D | Management | IT |
+|---|---|---|---|---|---|---|
+| Own profile and skills | Own records | Relevant project information, as authorized | As required for staffing | Relevant skill gaps, as authorized | Aggregated reporting by default | Technical access under authorization |
+| Other employees' skills | No general access | Relevant project-related information | As required for staffing | Relevant learning information | Aggregated reporting by default | Technical access under authorization |
+| Personal contact details | Own details | Restricted | Restricted, if required for approved business use | Restricted | Restricted | Controlled administrative access |
+| Employee interest records | Own records | Relevant project information | Full staffing-review access | Relevant information, as needed | Aggregated reporting by default | Controlled technical access |
+| Assessment and learning results | Own records | Relevant readiness information, if authorized | Relevant readiness information | Authorized learning records | Aggregated reporting by default | Controlled technical access |
+| Staffing decisions | Own outcome | Relevant project outcome | Authorized decision access | Relevant learning outcome | Management reporting | Audit/technical access as authorized |
+
+This is a proposed visibility model. Final permissions must be approved by the business and aligned with ThinkPalm's privacy and information-security policies.
+
+## 12. Non-Functional Business Requirements
+
+The following requirements define business expectations for system quality. They do not prescribe a technical architecture or technology stack.
+
+| ID | Category | Business Requirement | Target / Validation |
+|---|---|---|---|
+| NFR-01 | Access control | The solution must provide role-based access to opportunities, employee records, learning information and staffing decisions. | Approved role-permission matrix and access tests. |
+| NFR-02 | Privacy | Employee personal and sensitive business information must be protected from unauthorized access or disclosure. | Approved privacy and security controls. |
+| NFR-03 | Data integrity | Employee, project, skill and staffing records must remain accurate and consistent across the workflow. | Data validation and reconciliation checks. |
+| NFR-04 | Auditability | Important changes to opportunities, employee interest, skill profiles, learning records and staffing outcomes must be traceable. | Approved audit requirements and audit review. |
+| NFR-05 | Usability | Users must be able to complete role-specific activities through clear and understandable workflows. | User acceptance feedback. |
+| NFR-06 | Performance | Common user activities, including viewing opportunities, comparing skills and reviewing candidates, must complete within agreed response times. | Response-time targets to be agreed based on expected load. |
+| NFR-07 | Availability and recovery | The solution must be available during agreed business operating periods, with appropriate backup and recovery arrangements. | Availability, recovery and backup targets to be agreed. |
+| NFR-08 | Scalability | The solution must support the expected number of users, concurrent sessions, employee records and project opportunities, with provision for business growth. | User volume and growth estimates to be confirmed. |
+| NFR-09 | Compatibility | The solution must support the browsers and devices approved for organizational use. | Supported browser and device list to be confirmed. |
+| NFR-10 | Maintainability | The enhancement must be maintainable and support future changes to business rules, skills and workflow requirements. | Technical maintainability assessment. |
+| NFR-11 | Data protection | Data must be protected during storage, transmission, backup and authorized integration. | Security and privacy review. |
+| NFR-12 | Platform access | Business stakeholders must confirm whether desktop web access alone is sufficient or whether mobile access is required. | Platform requirement approval. |
+
+Specific performance thresholds, expected user counts, concurrency levels, availability targets, supported browsers and recovery objectives require confirmation from business and technical stakeholders.
+
+The technical team will recommend the implementation approach and technology stack based on the approved business requirements and existing portal architecture.
+
+## 13. Data Migration and Integration Requirements
+
+The proposed enhancement depends on the quality and availability of existing employee and skill information.
+
+Before implementation, the organization must establish whether existing data can be reused directly, requires cleansing and migration, or must be retrieved through integration with another authorized system.
+
+### 13.1 Data Areas to Assess
+
+| Data Area | Assessment Required |
+|---|---|
+| Employee master data | Identify the authoritative employee data source and required attributes. |
+| Employee availability | Identify how unallocated status, project commitments and availability dates are maintained. |
+| Employee employment status | Identify the authoritative source for employment status and notice-period information. |
+| Skill profiles | Review skill names, proficiency levels, completeness and last-updated information. |
+| Certifications | Identify the source of verified certifications and authorized update ownership. |
+| Project opportunities | Determine whether historical or active project information needs to be reused. |
+| Learning records | Identify existing course, assessment and certification information required for readiness evaluation. |
+| User roles | Identify existing user accounts, role definitions and permission dependencies. |
+
+### 13.2 Data Migration and Integration Principles
+
+- Identify the authoritative source for each data category.
+- Assess completeness, accuracy, consistency and duplication in existing records.
+- Establish ownership for employee and skill data.
+- Define data mapping and transformation requirements.
+- Determine which data requires migration and which data can be accessed through integration.
+- Validate migrated or integrated data against the approved source.
+- Define how incomplete, outdated or conflicting records will be handled.
+- Maintain appropriate access controls and audit records during data handling.
+- Define rollback, error handling and reconciliation arrangements for migration activities.
+- Obtain business validation before migrated data is used for staffing decisions.
+
+The migration or integration approach will be finalized after technical assessment and stakeholder approval. No assumption is made that all existing portal data is immediately suitable for reuse.
+
+## 14. Proposed Success Measures
+
+The following are proposed targets for stakeholder validation, not actual ThinkPalm performance results.
+
+| Measure | Proposed Target | Measurement |
+|---|---|---|
+| Opportunity engagement | At least 80% of eligible published opportunities receive interest within 14 days. | Opportunity and interest records. |
+| Initial RM review | At least 90% of reviews are completed within five business days of the agreed review point. | Review timestamps. |
+| Opportunity data quality | At least 95% of published opportunities meet mandatory data checks. | Validation records. |
+| Internal resource utilization | Establish a baseline and track internal staffing outcomes. | Staffing and availability records. |
+| Learning effectiveness | Track course completion, assessment pass rates, certification and readiness reassessment. | L&D records. |
+| Financial impact | Compare relevant recruitment and staffing costs against an agreed baseline. | Approved Finance data and cost definitions. |
+| Data quality | Establish a baseline for complete and verified employee skill profiles. | Employee profile and skill records. |
+| Process efficiency | Track average time from opportunity publication to staffing decision. | Opportunity and staffing timestamps. |
+
+Targets and measurement definitions must be agreed with the relevant stakeholders before implementation.
+
+## 15. Assumptions and Dependencies
+
+### 15.1 Assumptions
+
+- The existing Employee Management Portal can be enhanced to support the proposed workflow.
+- Employee skill, availability and employment-status data can be accessed by authorized users.
+- PM, RM, Employee and L&D responsibilities will be defined.
+- Management and HR will define employee eligibility and internal staffing policies.
+- Management will define the internal staffing and external recruitment policy.
+- L&D will define learning, assessment, certification and retry rules.
+- Privacy and information-security policies will be available for alignment.
+- Existing data sources can be assessed for reuse, migration or integration.
+- Proposed targets will be validated before implementation.
+- Technical feasibility and implementation costs will be assessed before investment approval.
+
+### 15.2 Dependencies
+
+- Reliable employee, employment-status and skill-profile data.
+- An authoritative source for notice-period and employee eligibility information.
+- Agreed role permissions and information visibility rules.
+- Defined opportunity statuses and workflow transitions.
+- Approved eligibility, availability and readiness policies.
+- Agreed notification events and communication channels.
+- Approved courses, assessments and certification criteria.
+- Defined ownership of employee and skill information.
+- Availability of staffing, training and financial data for reporting.
+- Technical assessment of existing portal architecture and integration options.
+- Availability of business users for requirement validation and UAT.
+
+## 16. Constraints
+
+- Employee information must be protected through appropriate access and privacy controls.
+- Staffing decisions remain human-controlled.
+- The enhancement does not replace the recruitment process.
+- Financial benefits cannot be confirmed without a measured baseline.
+- Integration with other systems depends on technical feasibility and authorization.
+- The project must align with existing organizational policies and applicable data-protection requirements.
+- Final performance and scalability targets depend on confirmed business volumes and technical assessment.
+
+## 17. Risks and Mitigations
+
+| Risk | Potential Impact | Proposed Mitigation |
+|---|---|---|
+| Incomplete or outdated skill profiles | Incorrect suitability assessment. | Define profile ownership, validation and authorized update processes. |
+| Inaccurate employment-status or notice-period data | Ineligible employees may enter the opportunity process. | Identify an authoritative HR data source and define timely status updates. |
+| Employees miss opportunities | Reduced internal interest and resource visibility. | Provide a centralized opportunity view and agreed notifications. |
+| Project requirements change after interest is submitted | Employees may be assessed against outdated requirements. | Notify affected employees and request re-confirmation where required. |
+| Training does not make an employee ready in time | Staffing timelines may be affected. | Track learning progress and reassess readiness. |
+| Delayed Resource Manager review | Staffing decisions may be delayed. | Define review milestones and monitor them. |
+| Sensitive information is exposed | Privacy and compliance risks. | Apply role-based access, privacy controls and auditability. |
+| Existing data is inaccurate or duplicated | Incorrect reporting and staffing decisions. | Conduct data profiling, cleansing and reconciliation. |
+| Migration or integration fails | Incomplete or inconsistent business information. | Define migration validation, error handling and rollback arrangements. |
+| Unclear business eligibility rules | Inconsistent employee participation and decisions. | Obtain approved HR and Resource Management policies. |
+| Unclear waitlist or assessment rules | Inconsistent process outcomes. | Obtain stakeholder approval before implementation. |
+| Higher-than-expected implementation cost | Reduced financial viability. | Obtain technical estimates and assess phased implementation. |
+| Financial benefits are overstated | Incorrect investment decisions. | Use validated baseline data and approved financial definitions. |
+
+## 18. Open Questions for Stakeholder Validation
+
+| ID | Open Question | Relevant Stakeholder |
+|---|---|---|
+| OQ-01 | Which opportunity fields and skills are mandatory? | PM / RM |
+| OQ-02 | How is employee eligibility for an opportunity determined beyond the notice-period restriction? | HR / RM |
+| OQ-03 | Which employee information is visible to each role? | HR / Management / IT |
+| OQ-04 | What are the expected Resource Manager review timelines? | RM / Management |
+| OQ-05 | What rules govern waitlisting and readiness reassessment? | RM / L&D |
+| OQ-06 | Which notifications are required and through which channels? | PM / RM / Employees / IT |
+| OQ-07 | What is the maximum number of assessment attempts? | L&D |
+| OQ-08 | Who can update skill profiles following certification? | L&D / RM |
+| OQ-09 | What policy determines when external recruitment can be considered? | Management / HR |
+| OQ-10 | Which data sources and cost definitions will be used to measure utilization and financial impact? | RM / HR / Finance |
+| OQ-11 | What employee personal information is required, and what are the approved visibility and retention rules? | HR / IT / Management |
+| OQ-12 | What is the expected number of users and concurrent sessions? | Management / IT |
+| OQ-13 | What performance, availability and recovery targets are required? | Business / IT |
+| OQ-14 | Which browsers and devices must be supported? Is mobile access required? | Business / IT |
+| OQ-15 | Which existing systems are authoritative sources for employee, employment status, availability, skill and certification data? | HR / RM / L&D / IT |
+| OQ-16 | Is existing data to be migrated, integrated or reused directly? | IT / Business |
+| OQ-17 | What data-quality checks and reconciliation criteria must be met before migrated data is used? | HR / RM / IT |
+| OQ-18 | Which roles are responsible for approving data migration and validating migrated records? | Business / IT |
+| OQ-19 | If an employee enters a notice period after expressing interest, should the existing interest be withdrawn automatically or reviewed by the Resource Manager? | HR / RM |
+| OQ-20 | How frequently must employee employment status and notice-period information be synchronized or refreshed? | HR / IT |
+
+## 19. Relationship with Supporting Project Documents
+
+This BRD establishes the business need, scope, stakeholders, business requirements, policies, business-level validations and non-functional expectations.
+
+The supporting documents provide the next level of detail:
+
+| Document | Purpose |
+|---|---|
+| Business Case | Explains the business justification, investment considerations, expected benefits and financial assessment. |
+| Functional Requirements Document (FRD) | Defines detailed functional behavior, validations, workflow transitions, notifications, access controls and exception handling. |
+| User Stories and Acceptance Criteria | Express requirements from user perspectives and define testable acceptance conditions. |
+| Functional Test Cases | Verify positive, negative, boundary, permission and workflow scenarios against the functional requirements and acceptance criteria. |
+| Requirements Traceability Matrix (RTM) | Maintains forward and backward traceability between business requirements, functional requirements, user stories and test cases. |
+| UAT Plan | Defines business-user validation, execution responsibilities, entry and exit criteria, defect handling and sign-off. |
+| Process Flow Diagrams | Illustrate the current-state understanding and proposed future-state business workflow. |
+
+Requirement identifiers will be retained across supporting documents wherever applicable to maintain traceability and consistency.
+
+## 20. Approval
+
+| Role | Name | Status |
+|---|---|---|
+| Business Sponsor | To be confirmed | Pending stakeholder validation |
+| Resource Manager Representative | To be confirmed | Pending stakeholder validation |
+| L&D Representative | To be confirmed | Pending stakeholder validation |
+| HR Representative | To be confirmed | Pending stakeholder validation |
+| IT Representative | To be confirmed | Pending stakeholder validation |
+| Business Analyst | Mary Juliya | Prepared for case-study submission |
+
+---
+
+## Document Note
+
+This Business Requirements Document is a conceptual proposal prepared for the ThinkPalm case-study exercise. The current-state understanding, proposed business rules, targets, responsibilities, data requirements and assumptions require validation by authorized ThinkPalm stakeholders before implementation.
+
+No actual ThinkPalm operational performance, financial savings, stakeholder approval or technical feasibility is claimed by this document.
