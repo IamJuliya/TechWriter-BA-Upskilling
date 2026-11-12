@@ -1,1 +1,196 @@
+# Business Case
+## Project Opportunities & Talent Readiness Enhancement
 
+**Organization:** ThinkPalm (Case Study)  
+**Prepared by:** Mary Juliya  
+**Role:** Business Analyst  
+**Version:** 1.0  
+**Status:** Proposed for Stakeholder Review  
+**Date:** 12 November 2026
+
+---
+
+## 1. Executive Summary
+
+ThinkPalm's existing Employee Management Portal can be enhanced to improve the identification and utilization of available, unallocated employees against upcoming project requirements.
+
+The proposed enhancement provides a centralized view of project opportunities and required skills, enables employees to express interest, and helps Resource Managers assess employee suitability, readiness and availability before making staffing decisions.
+
+The business objective is to make better use of existing internal talent, reduce avoidable external recruitment, improve staffing turnaround and optimize resource-related expenditure.
+
+The proposal is intended to enhance the existing portal rather than replace it. Its feasibility and financial viability depend on the availability and quality of employee and skill data, implementation effort and actual staffing and recruitment costs.
+
+## 2. Business Problem
+
+The case-study scenario identifies the following potential challenges:
+
+- Employees may have limited visibility into upcoming project opportunities.
+- Project requirements and employee skills may need to be compared manually.
+- Resource Managers may spend additional time identifying suitable internal resources.
+- Skill gaps may not be identified early enough for targeted learning.
+- Management may lack consolidated information to assess internal resource utilization and staffing outcomes.
+
+These challenges can lead to underutilization of available employees, delayed staffing decisions and potentially avoidable external recruitment.
+
+*Note: These are proposed case-study observations and require validation with ThinkPalm stakeholders.*
+
+## 3. Proposed Solution
+
+Enhance the existing Employee Management Portal with the following capabilities:
+
+| Capability | Business value |
+|---|---|
+| Project opportunity management | Makes upcoming project demand visible. |
+| Skill comparison | Helps employees and Resource Managers identify skill alignment and gaps. |
+| Employee interest management | Allows available employees to express or withdraw interest. |
+| Resource Manager review | Supports consistent suitability, readiness and availability assessment. |
+| Learning and assessment support | Helps address identified skill gaps. |
+| Management dashboard | Provides visibility into resource utilization, staffing outcomes and learning progress. |
+
+Staffing decisions will remain under authorized Resource Manager control. The system will not automatically allocate employees.
+
+## 4. Expected Business Benefits
+
+| Benefit | Expected outcome | Measurement |
+|---|---|---|
+| Improved internal resource utilization | More available employees considered for suitable opportunities. | Internal staffing rate and utilization. |
+| Reduced avoidable recruitment | Internal candidates considered before external recruitment. | External hires avoided and recruitment cost avoided. |
+| Faster staffing decisions | Reduced time spent identifying and reviewing candidates. | Average time to staff. |
+| Better skill visibility | Clearer understanding of employee skills and gaps. | Percentage of profiles with validated skill information. |
+| Improved management visibility | Consolidated information for resource planning. | Dashboard usage and reporting completeness. |
+
+These are expected benefits, not confirmed savings.
+
+## 5. Cost Assessment
+
+The following cost categories should be considered when estimating the investment.
+
+| Cost category | Assessment required |
+|---|---|
+| Development and enhancement | Effort required to modify the existing portal. |
+| Integration and data preparation | Employee/skill data integration, migration and cleansing, if required. |
+| Testing and deployment | Functional testing, UAT, defect resolution and production deployment. |
+| Training and change management | User orientation and adoption support. |
+| Maintenance and support | Ongoing enhancements, issue resolution and operational support. |
+| Learning-related costs | Additional training or assessment expenses, if applicable. |
+
+**Cost estimation approach:** Estimate implementation effort using person-days by role, multiply by the applicable internal or vendor rate, and add one-time and recurring expenses separately.
+
+Actual estimates must be obtained from the relevant technical, project and business stakeholders.
+
+## 6. Financial Assessment
+
+### 6.1 Potential Financial Benefit
+
+The primary financial opportunity is avoiding external recruitment when a suitable internal employee can be staffed instead.
+
+The potential annual recruitment cost avoidance can be calculated as:
+
+**Annual recruitment cost avoidance = Number of external hires avoided × Average recruitment cost per hire**
+
+Additional potential benefits include:
+
+- Reduced staffing coordination effort.
+- Reduced time spent searching for suitable internal employees.
+- Better use of existing employee capacity.
+- Reduced project delays caused by extended staffing cycles, where measurable.
+
+Only benefits supported by measurable evidence should be included in the final ROI calculation.
+
+### 6.2 Illustrative Financial Scenario
+
+The following example demonstrates how the financial benefit can be calculated. These figures are hypothetical and are not ThinkPalm's actual financial data.
+
+| Parameter | Illustrative assumption |
+|---|---:|
+| External hires potentially avoided per year | 5 |
+| Average recruitment cost per hire | ₹75,000 |
+| Annual recruitment cost avoidance | ₹3,75,000 |
+| Annual staffing coordination effort saved | 300 hours |
+| Illustrative hourly resource cost | ₹500 |
+| Annual coordination effort value | ₹1,50,000 |
+| **Total potential annual benefit** | **₹5,25,000** |
+
+**Calculation:**
+
+- Recruitment cost avoidance = 5 × ₹75,000 = ₹3,75,000.
+- Coordination effort value = 300 × ₹500 = ₹1,50,000.
+- Total potential annual benefit = ₹5,25,000.
+
+The coordination effort value represents potential capacity released, not necessarily a direct cash saving. It should only be counted as a financial benefit if the organization can demonstrate how the released capacity creates measurable value.
+
+### 6.3 ROI and Payback Period
+
+Actual ROI and payback cannot be established until implementation and recurring costs are estimated.
+
+The following formulas will be used:
+
+**Net annual benefit = Annual measurable financial benefits − Annual recurring operating costs**
+
+**ROI (%) = (Net annual benefit − Initial implementation investment) ÷ Initial implementation investment × 100**
+
+**Payback period (years) = Initial implementation investment ÷ Net annual benefit**
+
+The payback calculation is meaningful only when net annual benefit is positive and the assumptions reflect a realistic steady-state period.
+
+A final financial assessment should also consider the implementation year, benefit ramp-up, recurring costs and any additional training expenses.
+
+## 7. Financial Data Required for Validation
+
+The following information must be collected from ThinkPalm stakeholders before financial approval:
+
+| Required information | Suggested source |
+|---|---|
+| Average number of unallocated employees | Resource Management |
+| Annual number of external hires for comparable roles | HR / Recruitment |
+| Average recruitment cost per hire | HR / Finance |
+| Average time taken to staff a project | Resource Management |
+| Current staffing coordination effort | Resource Management / Project Managers |
+| Estimated portal enhancement effort | Technical / Development Team |
+| Integration, testing and deployment costs | Technical / Project Team |
+| Annual maintenance and support costs | IT / Finance |
+| Additional training and assessment costs | L&D / Finance |
+
+The organization should also establish a baseline for internal staffing percentage, employee utilization and time-to-staff before implementation.
+
+## 8. Key Risks and Dependencies
+
+| Risk / dependency | Potential impact | Proposed mitigation |
+|---|---|---|
+| Inaccurate employee skill profiles | Incorrect suitability assessment. | Validate and establish skill-data ownership. |
+| Limited employee adoption | Opportunities may not receive sufficient interest. | Provide user guidance and notifications. |
+| Delayed Resource Manager reviews | Staffing decisions may be delayed. | Agree on review timelines and monitor performance. |
+| Unclear readiness criteria | Inconsistent staffing decisions. | Obtain stakeholder-approved eligibility and readiness rules. |
+| Data privacy concerns | Unauthorized exposure of employee information. | Implement role-based access and appropriate privacy controls. |
+| Higher-than-expected implementation cost | Reduced financial viability. | Obtain technical estimates and assess phased implementation. |
+
+## 9. Options Considered
+
+| Option | Advantages | Limitations |
+|---|---|---|
+| Continue with the existing process | No immediate development investment. | Existing visibility and coordination challenges may remain. |
+| Enhance the existing portal | Centralized opportunities, skill visibility and structured staffing review. | Requires implementation investment, data preparation and user adoption. |
+| Procure a separate solution | May provide broader functionality. | May introduce additional licensing, integration and maintenance costs. |
+
+**Proposed preference:** Enhance the existing portal, subject to technical feasibility, cost assessment and stakeholder approval.
+
+## 10. Recommendation and Next Steps
+
+Proceed with detailed feasibility and financial validation of the proposed portal enhancement.
+
+Before approving implementation:
+
+1. Validate the current resource allocation and recruitment baseline.
+2. Obtain development, integration, testing and maintenance estimates.
+3. Confirm employee and skill-data availability and quality.
+4. Validate the proposed business benefits with Resource Management, HR and Finance.
+5. Calculate ROI and payback using approved financial assumptions.
+6. Obtain management approval before proceeding with implementation.
+
+**Recommendation:** The proposed enhancement has potential business value by improving internal talent visibility and supporting internal staffing before external recruitment is considered. However, investment approval should be based on validated cost estimates and measurable financial benefits rather than assumed recruitment savings.
+
+---
+
+## Document Note
+
+This Business Case is a conceptual proposal prepared for the ThinkPalm case-study exercise. Operational information, cost figures, benefit estimates and business rules are illustrative unless validated by authorized ThinkPalm stakeholders. It is intended to support stakeholder discussion and does not represent an approved investment decision.
