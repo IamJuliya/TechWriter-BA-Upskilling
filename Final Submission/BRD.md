@@ -1,14 +1,44 @@
 # Business Requirements Document (BRD)
 ## Project Opportunities & Talent Readiness Enhancement
 
-**Organization:** ThinkPalm (Case-Study Scenario)  
-**Version:** 2.1  
-**Status:** Proposed for Stakeholder Review  
-**Prepared by:** Mary Juliya  
-**Role:** Business Analyst  
-**Date:** 12 November 2026
+## Contents
 
----
+- [1. Executive Summary](#1-executive-summary)
+- [2. Business Problem](#2-business-problem)
+- [3. Business Objectives](#3-business-objectives)
+- [4. Project Scope](#4-project-scope)
+  - [4.1 In Scope](#41-in-scope)
+  - [4.2 Out of Scope](#42-out-of-scope)
+- [5. Stakeholders and Responsibilities](#5-stakeholders-and-responsibilities)
+  - [5.1 RASI Responsibility Assignment Matrix](#51-rasi-responsibility-assignment-matrix)
+- [6. Current-State Understanding](#6-current-state-understanding)
+- [7. Proposed Future-State Process](#7-proposed-future-state-process)
+- [8. Business Requirements](#8-business-requirements)
+- [9. Business Rules](#9-business-rules)
+- [10. Business-Level Validation Requirements](#10-business-level-validation-requirements)
+- [11. Employee Data Privacy and Information Protection](#11-employee-data-privacy-and-information-protection)
+  - [11.1 Data Privacy Requirements](#111-data-privacy-requirements)
+  - [11.2 Proposed Role-Based Visibility](#112-proposed-role-based-visibility)
+- [12. Non-Functional Business Requirements](#12-non-functional-business-requirements)
+- [13. Data Migration and Integration Requirements](#13-data-migration-and-integration-requirements)
+  - [13.1 Data Areas to Assess](#131-data-areas-to-assess)
+  - [13.2 Data Migration and Integration Principles](#132-data-migration-and-integration-principles)
+- [14. Proposed Success Measures](#14-proposed-success-measures)
+- [15. Assumptions and Dependencies](#15-assumptions-and-dependencies)
+  - [15.1 Assumptions](#151-assumptions)
+  - [15.2 Dependencies](#152-dependencies)
+- [16. Constraints](#16-constraints)
+- [17. Risks and Mitigations](#17-risks-and-mitigations)
+- [18. Open Questions for Stakeholder Validation](#18-open-questions-for-stakeholder-validation)
+- [19. Relationship with Supporting Project Documents](#19-relationship-with-supporting-project-documents)
+- [20. Approval](#20-approval)
+- [Document Note](#document-note)
+
+## Document Note
+
+This Business Requirements Document is a conceptual proposal prepared for the ThinkPalm case-study exercise. The current-state understanding, proposed business rules, targets, responsibilities, data requirements and assumptions require validation by authorized ThinkPalm stakeholders before implementation.
+
+No actual ThinkPalm operational performance, financial savings, stakeholder approval or technical feasibility is claimed by this document.
 
 ## 1. Executive Summary
 
@@ -449,8 +479,4 @@ Requirement identifiers will be retained across supporting documents wherever ap
 
 ---
 
-## Document Note
 
-This Business Requirements Document is a conceptual proposal prepared for the ThinkPalm case-study exercise. The current-state understanding, proposed business rules, targets, responsibilities, data requirements and assumptions require validation by authorized ThinkPalm stakeholders before implementation.
-
-No actual ThinkPalm operational performance, financial savings, stakeholder approval or technical feasibility is claimed by this document.
