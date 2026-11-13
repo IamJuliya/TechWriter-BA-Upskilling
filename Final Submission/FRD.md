@@ -1,16 +1,4 @@
 # Functional Requirements Document (FRD)
-## Project Opportunities & Talent Readiness Enhancement
-
-| Document Information | Details |
-|---|---|
-| Organization | ThinkPalm (Case Study) |
-| Prepared By | Mary Juliya |
-| Role | Business Analyst |
-| Version | 2.0 |
-| Status | Proposed for Stakeholder Review |
-| Date | 13 November 2026 |
-| Reference Document | Business Requirements Document (BRD) – Version 2.1 |
-
 ---
 
 ## 1. Introduction
