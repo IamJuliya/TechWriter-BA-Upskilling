@@ -4,7 +4,7 @@ The following documents present the Business Analysis activities and deliverable
 
 | No. | Document | Description |
 |---|---|---|
-| 01 | [Business Case](01-Business-Case.md) | Establishes the business need, justification, expected benefits, and financial assessment. |
+| 01 | [Business Case](01-Business%20Case.md) | Establishes the business need, justification, expected benefits, and financial assessment. |
 | 02 | [Business Requirements Document (BRD)](02_Business_Requirements_Document.md) | Defines business objectives, scope, stakeholders, business requirements, business rules, assumptions, and constraints. |
 | 03 | [User Stories and Acceptance Criteria](03_User_Stories_and_Acceptance_Criteria.md) | Captures stakeholder needs as user stories with measurable acceptance criteria. |
 | 04 | [Functional Requirements Document (FRD)](04_Functional_Requirements_Document.md) | Details the functional requirements, validations, workflows, notifications, and non-functional expectations. |
