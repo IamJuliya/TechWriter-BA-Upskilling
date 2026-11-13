@@ -7,6 +7,91 @@
   - [1.2 Project Overview](#12-project-overview)
   - [1.3 Scope of the FRD](#13-scope-of-the-frd)
 
+1. Introduction
+
+1.1 Purpose
+
+1.2 Project Overview
+
+1.3 Scope of the FRD
+
+2. User Roles
+
+3. Functional Requirements
+
+3.1 Project Opportunity Management
+
+3.2 Employee Opportunity Access and Eligibility
+
+3.3 Resource Manager Review and Staffing
+
+3.4 Learning and Development
+
+3.5 Notifications and Management Reporting
+
+4. Business Rules and System Enforcement
+
+5. Field and Workflow Validations
+
+5.1 Project Opportunity Validations
+
+5.2 Employee Interest Validations
+
+5.3 Resource Manager and L&D Validations
+
+6. Workflow Status Definitions
+
+6.1 Opportunity Status
+
+6.2 Employee Interest and Staffing Status
+
+6.3 Learning Status
+
+7. Notification Requirements
+
+8. Data Requirements and Migration Considerations
+
+8.1 Key Data Entities
+
+8.2 Existing Data Assessment
+
+8.3 Data Migration and Integration Requirements
+
+8.4 Notice-Period Data Dependency
+
+9. Non-Functional Requirements
+
+9.1 Performance and Capacity Considerations
+
+9.2 Platform and Compatibility Considerations
+
+10. Exception and Error Handling
+
+11. Functional Acceptance Criteria
+
+12. Functional Testing Considerations
+
+12.1 Positive Testing
+
+12.2 Negative Testing
+
+12.3 Boundary and Exception Testing
+
+12.4 Regression Testing
+
+13. Dependencies and Assumptions
+
+13.1 Dependencies
+
+13.2 Assumptions
+
+14. Risks and Mitigation Considerations
+
+15. Open Questions and Pending Decisions
+
+16. Requirements Traceability
+
+17. Approval
 
 ## 1. Introduction
 
