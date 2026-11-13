@@ -1,18 +1,21 @@
-# User Acceptance Testing (UAT) Plan
-## Project Opportunities & Talent Readiness Enhancement
+# User Acceptance Testing (UAT) Plan - Project Opportunities & Talent Readiness Enhancement
 
-## Table of Contents
-
-- [1. Introduction](#1-introduction)
+## Contents
+[1. Introduction](#1-introduction)
   - [1.1 Purpose](#11-purpose)
   - [1.2 Project Overview](#12-project-overview)
   - [1.3 UAT Objectives](#13-uat-objectives)
   - [1.4 Scope](#14-scope)
-- [2. UAT Approach](#2-uat-approach)
-- [3. UAT Participants and Responsibilities](#3-uat-participants-and-responsibilities)
-- [4. UAT Environment and Test Data](#4-uat-environment-and-test-data)
-- [5. Entry Criteria](#5-entry-criteria)
-- [6. UAT Scenarios and Acceptance Criteria](#6-uat-scenarios-and-acceptance-criteria)
+
+[2. UAT Approach](#2-uat-approach)
+
+[3. UAT Participants and Responsibilities](#3-uat-participants-and-responsibilities)
+
+[4. UAT Environment and Test Data](#4-uat-environment-and-test-data)
+
+[5. Entry Criteria](#5-entry-criteria)
+
+[6. UAT Scenarios and Acceptance Criteria](#6-uat-scenarios-and-acceptance-criteria)
   - [6.1 Project Opportunity Management](#61-project-opportunity-management)
   - [6.2 Employee Opportunity Access and Eligibility](#62-employee-opportunity-access-and-eligibility)
   - [6.3 Skill Comparison and Expression of Interest](#63-skill-comparison-and-expression-of-interest)
@@ -21,12 +24,18 @@
   - [6.6 Notifications and Management Reporting](#66-notifications-and-management-reporting)
   - [6.7 Access Control and Data Privacy](#67-access-control-and-data-privacy)
   - [6.8 Data Migration and Integration](#68-data-migration-and-integration)
-- [7. Exit Criteria](#7-exit-criteria)
-- [8. Defect Management](#8-defect-management)
-- [9. UAT Execution and Sign-off](#9-uat-execution-and-sign-off)
-- [10. Risks and Mitigation](#10-risks-and-mitigation)
-- [11. Assumptions and Open Questions](#11-assumptions-and-open-questions)
-- [12. Approval](#12-approval)
+
+[7. Exit Criteria](#7-exit-criteria)
+
+[8. Defect Management](#8-defect-management)
+
+[9. UAT Execution and Sign-off](#9-uat-execution-and-sign-off)
+
+[10. Risks and Mitigation](#10-risks-and-mitigation)
+
+[11. Assumptions and Open Questions](#11-assumptions-and-open-questions)
+
+[12. Approval](#12-approval)
 
 ## 1. Introduction
 
