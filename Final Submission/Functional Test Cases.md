@@ -25,6 +25,8 @@
 - [11. Assumptions and Open Questions](#11-assumptions-and-open-questions)
 
 ## 1. Introduction
+**Document Note:** 
+This document defines proposed functional test scenarios for the ThinkPalm case-study initiative. Test execution results, defect status, and final acceptance depend on implementation, environment readiness, and stakeholder-approved business policies.
 
 ### 1.1 Purpose
 
@@ -318,6 +320,4 @@ The Requirements Traceability Matrix (RTM) will provide detailed bidirectional m
 | OQ-08 | What is the approved migration or integration approach for existing employee and skill data? | Determines data validation and integration test coverage. |
 | OQ-09 | What are the expected user volume, concurrent usage, and performance targets? | Determines the required non-functional testing scope. |
 
----
 
-**Document Note:** This document defines proposed functional test scenarios for the ThinkPalm case-study initiative. Test execution results, defect status, and final acceptance depend on implementation, environment readiness, and stakeholder-approved business policies.
