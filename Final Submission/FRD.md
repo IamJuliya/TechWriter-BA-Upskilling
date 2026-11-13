@@ -45,8 +45,6 @@
 - [16. Requirements Traceability](#16-requirements-traceability)
 - [17. Approval](#17-approval)
 
-- [17. Approval](#17-approval)
-
 ## 1. Introduction
 
 **Document Note**
