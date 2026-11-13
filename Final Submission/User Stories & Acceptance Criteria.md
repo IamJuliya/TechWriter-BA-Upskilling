@@ -1,17 +1,30 @@
 # User Stories and Acceptance Criteria
-## Project Opportunities & Talent Readiness Enhancement
 
-| Document Detail | Information |
-|---|---|
-| Organization | ThinkPalm (Case-Study Scenario) |
-| Prepared By | Mary Juliya |
-| Role | Business Analyst |
-| Version | 1.0 |
-| Status | Proposed for Stakeholder Review |
-| Date | 13 November 2026 |
-| Related Documents | Business Case v1.0, BRD v2.1, FRD v2.0 |
+## Contents
+[1. Introduction](#1-introduction)
+  - [1.1 Purpose](#11-purpose)
+  - [1.2 Project Overview](#12-project-overview)
+  - [1.3 Scope](#13-scope)
 
----
+[2. User Roles](#2-user-roles)
+
+[3. User Story Format](#3-user-story-format)
+
+[4. User Stories and Acceptance Criteria](#4-user-stories-and-acceptance-criteria)
+  - [4.1 Project Manager – Opportunity Management](#41-project-manager--opportunity-management)
+  - [4.2 Employee – Opportunity Discovery and Interest](#42-employee--opportunity-discovery-and-interest)
+  - [4.3 Resource Manager – Review and Staffing](#43-resource-manager--review-and-staffing)
+  - [4.4 Learning and Development – Training and Assessment](#44-learning-and-development--training-and-assessment)
+  - [4.5 Management – Dashboard and Reporting](#45-management--dashboard-and-reporting)
+  - [4.6 System – Notifications and Access Control](#46-system--notifications-and-access-control)
+
+[5. Business Rules and Validations](#5-business-rules-and-validations)
+
+[6. Exception and Negative Scenarios](#6-exception-and-negative-scenarios)
+
+[7. Requirements Traceability](#7-requirements-traceability)
+
+[8. Assumptions and Open Questions](#8-assumptions-and-open-questions)
 
 ## 1. Purpose
 
