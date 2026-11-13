@@ -5,7 +5,9 @@
   - [1.1 Purpose](#11-purpose)
   - [1.2 Project Overview](#12-project-overview)
   - [1.3 Scope of the FRD](#13-scope-of-the-frd) 
+
 [2. User Roles](#2-user-roles)
+
 [3. Functional Requirements](#3-functional-requirements) 
   - [3.1 Project Opportunity Management](#31-project-opportunity-management)
   - [3.2 Employee Opportunity Access and Eligibility](#32-employee-opportunity-access-and-eligibility)
