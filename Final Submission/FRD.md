@@ -1,5 +1,4 @@
 # Functional Requirements Document (FRD)
----
 
 ## 1. Introduction
 
