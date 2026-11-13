@@ -1,4 +1,5 @@
-# User Acceptance Testing (UAT) Plan - Project Opportunities & Talent Readiness Enhancement
+# User Acceptance Testing (UAT) Plan 
+## Project Opportunities & Talent Readiness Enhancement
 
 ## Contents
 [1. Introduction](#1-introduction)
