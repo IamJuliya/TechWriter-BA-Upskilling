@@ -2,7 +2,10 @@
 
 ## Contents
 
-Introduction ## 1. Introduction
+- [1. Introduction](#1-introduction)
+  - [1.1 Purpose](#11-purpose)
+  - [1.2 Project Overview](#12-project-overview)
+  - [1.3 Scope of the FRD](#13-scope-of-the-frd)
 
 
 ## 1. Introduction
